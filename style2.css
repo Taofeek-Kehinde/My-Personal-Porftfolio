@@ -1,0 +1,120 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+body{
+    background-color: #efefef;
+    align-items: center;
+    text-align: center;
+    margin-top: 50px;
+}
+.welcome{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: 30px;
+}
+.create{
+    margin-top: 15px;
+    margin-right: 100px;
+    font-weight: 300;
+}
+.sign{
+    color: blue;
+    text-decoration: underline;
+    cursor: pointer;
+    margin-left: 180px;
+    margin-top: -22px;
+}
+.google{
+    position: absolute;
+    margin-top: 66px;
+    margin-left: 60px;
+}
+.Wrapper{
+    border: 1px solid #fff;
+    margin-right: 570px;
+    margin-left: 570px;
+    margin-top: 50px;
+    border-radius: 10px;
+    background-color: #fff;
+}
+.btn{
+    margin-top: 50px;
+    padding: 20px;
+    background: #fff;
+    border: 1px solid blue;
+    border-radius: 5px;
+    width: 390px;
+    margin-bottom: 20px;
+}
+.btn .continue{
+    color: blue;
+    font-size: 20px;
+}
+.my_hr{
+    margin-right: 350px;
+    margin-left: 45px;
+    margin-top: 20px;
+    margin-bottom: 30px;
+    border: 1px solid #ccc;
+}
+.word{
+    margin-top: -40px;
+    margin-bottom: 30px;
+}
+.sec_hr{
+    margin-right: 45px;
+    margin-left: 350px;
+    margin-top: -38px;
+    margin-bottom: 80px;
+border: 1px solid #ccc;
+}
+.user{
+    margin-left: -170px;
+    margin-top: -30px;
+    padding-bottom: 10px;
+    font-weight: 600;
+}
+input{
+    padding: 15px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+    border: 2px solid #cccc;
+    width: 390px;
+}
+.Password{
+    margin-left: -300px;
+    padding-top: -10px;
+}
+.show{
+    color: blue;
+    margin-top: -15px;
+    padding-bottom: 20px;
+    margin-left: 300px;
+    cursor: pointer;
+}
+.bx{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    width: 120px;
+    padding: 15px;
+    color: #fff;
+    background: blue;
+    border: none;
+    outline: none;
+    border-radius: 10px;
+    font-size: 15px;
+}
+.bx:hover{
+ background-color: gray;
+ color: blue;
+}
+.reset{
+    color: blue;
+    text-decoration: underline;
+    padding-bottom: 30px;
+    margin-top: 10px;
+    margin-left: -210px;
+}
